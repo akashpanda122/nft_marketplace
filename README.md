@@ -1,18 +1,5 @@
 # NFT Marketplace - Your Gateway to Buying and Selling Unique Digital Assets
 
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [Contact](#contact)
-
 ## Introduction
 
 Welcome to our NFT Marketplace, a cutting-edge platform where you can buy and sell unique digital assets, Non-Fungible Tokens (NFTs). We've built this marketplace from scratch, leveraging the power of the Ethereum blockchain, Solidity smart contracts, and IPFS (Pinata) for decentralized and secure transactions.
@@ -78,18 +65,3 @@ npm start
 
 4. Open your web browser and navigate to `http://localhost:3000`.
 5. Explore the marketplace, buy and sell NFTs, and view your wallet address, balance, and NFT collection.
-
-## Contributing
-
-I welcome contributions from the community!
-
-## Contact
-
-For any inquiries or feedback, please reach out to me:
-
-- Email: saishmirajkar0@gmail.com
-- Discord: https://discord.com/users/saish7147 
-- Twitter: https://twitter.com/saishmirajkar1
-- GitHub: https://github.com/saishmirajkar
-
-Thank you for using our NFT Marketplace! Join us in the world of unique digital assets and revolutionize the way we buy and sell NFTs. Happy NFT trading! 🎨💱🚀
